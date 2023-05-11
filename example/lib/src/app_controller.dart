@@ -1,6 +1,5 @@
 import 'package:flutter/widgets.dart';
-
-import 'package:flutter_fancy_tree_view/flutter_fancy_tree_view.dart';
+import 'package:s_flutter_tree_view/flutter_fancy_tree_view.dart';
 
 enum ExpansionButtonType { folderFile, chevron }
 

@@ -1,5 +1,5 @@
 name: example
-description: An example for the flutter_fancy_tree_view package.
+description: An example for the s_flutter_tree_view package.
 publish_to: 'none'
 version: 1.0.0
 
@@ -10,7 +10,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  flutter_fancy_tree_view:
+  s_flutter_tree_view:
     path: ../
 
   url_launcher: ^6.0.4

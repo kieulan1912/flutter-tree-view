@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fancy_tree_view/flutter_fancy_tree_view.dart';
+import 'package:s_flutter_tree_view/flutter_fancy_tree_view.dart';
 
 import 'app_controller.dart';
 import 'node/tree_node_tile.dart';
